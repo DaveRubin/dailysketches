@@ -51,6 +51,7 @@
 
 .timeline-wrapper {
   max-width: 800px;
+  margin: auto;
 }
 .preview {
   display: flex;
