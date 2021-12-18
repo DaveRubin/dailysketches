@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dailysketches/static/css/main.f26b72f4.css",
+    "main.js": "/dailysketches/static/js/main.93c4c201.js",
+    "static/js/787.be3de83e.chunk.js": "/dailysketches/static/js/787.be3de83e.chunk.js",
+    "index.html": "/dailysketches/index.html",
+    "main.f26b72f4.css.map": "/dailysketches/static/css/main.f26b72f4.css.map",
+    "main.93c4c201.js.map": "/dailysketches/static/js/main.93c4c201.js.map",
+    "787.be3de83e.chunk.js.map": "/dailysketches/static/js/787.be3de83e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f26b72f4.css",
+    "static/js/main.93c4c201.js"
+  ]
+}
